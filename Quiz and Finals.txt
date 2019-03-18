@@ -1,0 +1,34 @@
+**Quiz**
+
+Observation:
+
+-- To start the troubleshooting process it is necessary to have proper and enough tools. 
+Tools help us diagnose what or where the the problems of the device came from.
+
+-- THe fans work for few seconds but suddenly stops. We tried checking for loose conenctions, cleaned the RAM, check the hard disk but PC stil didnt boot.
+
+Solution:
+
+-- Possibly that the power supply is the problem so it needs to be checked for any problems or possibly needs to be replaced.
+
+************************************************************************************
+************************************************************************************
+
+**Finals**
+
+Compose a 1000 words essay about your experience in Troubleshooting. ( No Plagiarism ) What are your comments about my testing experience.
+
+	Troubleshooting as defined is the process of identifying  and tailoring fitted solutions  to the problems, error or fault within a software or in a computer system. It's very important to learn the principles of troubleshooting as it's very critical in our decision making not only in the fields of engineering but also in everyday encounters. Focusing in our field of study, we are to diagnose problems in a software, output/input devices or in a computer system unit as a whole. Once we have the problems then its time to do the workaorunds on debugging or repairing the issue. We have learned everything from how to fix a keyboard, NIC, RAM, even routers and many others that make up the computer and the accessories that boost its functionality. 
+
+	For my experience, i would have to say it's very eye opening. Sometimes being a student we are too focused on passing all the subjetcs that we tend to neglect the things that we thought are very obvious, the things that we thought are very easy but when we were asked, we can't even provide a comprehensive answer because in reality we only knew so little about it. I for one is guilty about this. 
+There's so much to learn about the computer unit and how to troublshoot it, what we have known is just the tip of iceberg. Troubleshooting in our field is not just a matter of turning it on and off or resetting it, it requires an in-depth analysis and knowledge to solve a problem,  aided with the proper tools and materials. I wished what could've done better is the practicum area, apart from the theory of how to's it's best if we can do the actual work of fixing it. Hands-on experience is best to learn the things more, but with the resources that we have which is very limited I would understand.  
+
+	With regard to the testing experience I'm very satisfied about it. The exam is not that hard but surely we are learning something. I also appreaciate the way you incorporate the Bayabayin in our exams, apart from getting something from the actual subject we are also enticed to learning more about our native laguage. We know that you didnt get to start this subject as you came halfway through the semester but you made sure  to continue what has started. Wish you the best Sir in your chosen field and  we  hope that more students will be imparted with your knowledge.
+
+
+
+
+
+
+
+
